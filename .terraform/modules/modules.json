@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"EC2","Source":"./modules/ec2","Dir":"modules/ec2"},{"Key":"igw","Source":"./modules/igw","Dir":"modules/igw"},{"Key":"sg","Source":"./modules/security-group","Dir":"modules/security-group"},{"Key":"subnet","Source":"./modules/subnet","Dir":"modules/subnet"},{"Key":"vpc","Source":"./modules/vpc","Dir":"modules/vpc"}]}
